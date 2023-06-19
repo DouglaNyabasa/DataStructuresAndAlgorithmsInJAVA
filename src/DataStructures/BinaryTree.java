@@ -1,3 +1,5 @@
+package DataStructures;
+
 public class BinaryTree {
     public static void main(String[] args) {
         TreeTraversal treeTraversal = new TreeTraversal();
