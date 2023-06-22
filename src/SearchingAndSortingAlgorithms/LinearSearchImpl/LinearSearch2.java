@@ -1,9 +1,12 @@
-package Algorithms;
+package SearchingAndSortingAlgorithms.LinearSearchImpl;
 
 import java.util.Scanner;
 
-public class LinearSearch {
-    public static void main(String[] args) {
+public class LinearSearch2 {
+
+
+    //SECOND IMPLEMENTATION EXAMPLE
+        public static void main(String[] args) {
 
         int array[] = new int[]{2,4,6,3,1,5,8,7,9};
         Scanner input = new Scanner(System.in);
@@ -21,3 +24,4 @@ public class LinearSearch {
         }
     }
 }
+

@@ -1,4 +1,6 @@
-package DataStructures;
+package TreeBasedDataStructures;
+
+import DataStructuresOrdinary.Node;
 
 public class BinarySearchTree  {
 

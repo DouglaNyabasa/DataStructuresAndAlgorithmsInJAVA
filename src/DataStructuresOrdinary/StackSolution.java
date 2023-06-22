@@ -1,4 +1,4 @@
-package DataStructures;
+package DataStructuresOrdinary;
 
 import java.util.Iterator;
 import java.util.Stack;
@@ -52,7 +52,7 @@ public class StackSolution {
 //        // add elements to the stackSolution
 //        public void push ( int x){
 //            if (isFull()) {
-//                System.out.println("DataStructures.StackSolution is filled");
+//                System.out.println("DataStructuresOrdinary.StackSolution is filled");
 //                System.exit(1);
 //            }
 //            System.out.println("Insert" + x);
@@ -63,7 +63,7 @@ public class StackSolution {
 //        }
 //        public int pop () {
 //            if (isEmpty()) {
-//                System.out.println("DataStructures.StackSolution is empty");
+//                System.out.println("DataStructuresOrdinary.StackSolution is empty");
 //                System.exit(1);
 //            }
 //            return array[top--];
