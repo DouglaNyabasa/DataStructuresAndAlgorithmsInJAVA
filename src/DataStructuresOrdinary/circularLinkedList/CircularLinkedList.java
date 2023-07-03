@@ -1,4 +1,4 @@
-package DataStructuresOrdinary;
+package DataStructuresOrdinary.circularLinkedList;
 
 public class CircularLinkedList {
 

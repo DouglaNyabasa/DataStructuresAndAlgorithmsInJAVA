@@ -1,4 +1,4 @@
-package DataStructuresOrdinary;
+package DataStructuresOrdinary.Arrays;
 
 import java.util.Arrays;
 
@@ -36,7 +36,7 @@ public class Array {
             }
             System.out.println();
         }
-        //   Sorting Elements of an DataStructuresOrdinary.Array
+        //   Sorting Elements of an DataStructuresOrdinary.Arrays.Array
         int Array[] = new int[]{3,5,6,7,1,2,9,4,8,10};
         for (int i=0;i<Array.length;i++ ){
             System.out.print(Array[i]);
